@@ -7,7 +7,9 @@
 ----
 
 1.下载项目，上传到typecho博客的`/usr/plugins`目录下
+
 2.在插件设置中填写Bark-server的地址和Bark APP中的KEY
+
 3.测试评论是否能成功推送到手机中
 
 注意
