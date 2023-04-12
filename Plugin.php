@@ -6,7 +6,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * @package BarkPush
  * @author chenai
  * @version 1.0.0
- * @link https://kindevil.com
+ * @link https://github.com/kindevil/BarkPush
  */
  
  class BarkPush_Plugin implements Typecho_Plugin_Interface{
